@@ -1,21 +1,12 @@
 # CODSOFTJV
 Java Projects Repository CodSoft Internship
 
-# Java Projects Repository
-
-This repository contains a collection of Java projects, each showcasing different aspects of Java programming.
-
-## Projects:
-
-### 1. Student Grade Calculator
-
-A JavaFX application that calculates and displays student grades based on input marks for multiple subjects.
-
-### 2. ATM Interface
-
-An interactive Java console application simulating an ATM interface. Users can perform basic banking transactions.
-
-## How to Use
-
-Feel free to explore the code and dive into the world of Java programming with these hands-on projects!
+# TASK 2
+### STUDENT GRADE CALCULATOR
+Input: Take marks obtained (out of 100) in each subject.
+Calculate Total Marks: Sum up the marks obtained in all subjects.
+Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
+average percentage.
+Grade Calculation: Assign grades based on the average percentage achieved.
+Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 
