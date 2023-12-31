@@ -1,9 +1,20 @@
-# QUIZ APPLICATION WITH TIMER
+# Student Grade Calculator
 
-Quiz Questions and Options: Store quiz questions along with multiple-choice options and correct answers.
-Timer: Implement a timer for each question to limit the time to answer.
-Question Display: Present one question at a time with multiple-choice options.
-Answer Submission: Allow users to select an option and submit their answer within the given time.
-Score Calculation: Keep track of the user's score based on correct answers.
+Welcome to the Student Grade Calculator project! This JavaFX application allows you to input marks obtained in each subject, calculates the total marks, average percentage, and assigns grades based on the average percentage. Below are the key features of the application:
 
-### Result Screen: Display the final score and a summary of correct/incorrect answers.
+1. **Input Marks:**
+   - Enter the marks obtained (out of 100) in each subject.
+
+2. **Calculate Total Marks:**
+   - Sum up the marks obtained in all subjects to get the total marks.
+
+3. **Calculate Average Percentage:**
+   - Divide the total marks by the total number of subjects to get the average percentage.
+
+4. **Grade Calculation:**
+   - Assign grades based on the average percentage achieved.
+
+5. **Display Results:**
+   - Show the total marks, average percentage, and the corresponding grade to the user.
+
+## Demo video link: https://www.linkedin.com/posts/mulisa-mavhina-a6187529b_internshipproject-javadevelopment-eclipseide-activity-7145798968302628864-KRfD?utm_source=share&utm_medium=member_desktop
