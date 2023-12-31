@@ -1,20 +1,23 @@
-# Student Grade Calculator
+# Quiz Application with Timer
 
-Welcome to the Student Grade Calculator project! This JavaFX application allows you to input marks obtained in each subject, calculates the total marks, average percentage, and assigns grades based on the average percentage. Below are the key features of the application:
+Welcome to the Quiz Application with Timer project! This Java application allows users to participate in a quiz, answering multiple-choice questions within a given time frame. Below are the key features and instructions for using the Quiz Application:
 
-1. **Input Marks:**
-   - Enter the marks obtained (out of 100) in each subject.
+1. **Quiz Questions and Options:**
+   - Store quiz questions along with multiple-choice options and correct answers.
 
-2. **Calculate Total Marks:**
-   - Sum up the marks obtained in all subjects to get the total marks.
+2. **Timer Implementation:**
+   - Implement a timer for each question to limit the time available to answer.
 
-3. **Calculate Average Percentage:**
-   - Divide the total marks by the total number of subjects to get the average percentage.
+3. **Question Display:**
+   - Present one question at a time with multiple-choice options.
 
-4. **Grade Calculation:**
-   - Assign grades based on the average percentage achieved.
+4. **Answer Submission:**
+   - Allow users to select an option and submit their answer within the given time.
 
-5. **Display Results:**
-   - Show the total marks, average percentage, and the corresponding grade to the user.
+5. **Score Calculation:**
+   - Keep track of the user's score based on correct answers.
 
-## Demo video link: https://www.linkedin.com/posts/mulisa-mavhina-a6187529b_internshipproject-javadevelopment-eclipseide-activity-7145798968302628864-KRfD?utm_source=share&utm_medium=member_desktop
+6. **Result Screen:**
+   - Display the final score and a summary of correct/incorrect answers.
+
+## Demo video: https://www.linkedin.com/posts/mulisa-mavhina-a6187529b_codsoftinternship-java-javafx-activity-7146940169403752449-qrNh?utm_source=share&utm_medium=member_desktop
