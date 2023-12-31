@@ -1,9 +1,6 @@
-# CODSOFTJV
-Java Projects Repository CodSoft Internship
+# CODSOFTJV - Java Projects Repository for CodSoft Internship
 
-# Java Projects Repository
-
-This repository contains a collection of Java projects, each showcasing different aspects of Java programming.
+Welcome to the CODSOFTJV repository! This collection of Java projects showcases different aspects of Java programming for my internship with CodSoft. Feel free to explore the code and dive into the world of Java with these hands-on projects.
 
 ## Projects:
 
@@ -15,7 +12,17 @@ A JavaFX application that calculates and displays student grades based on input 
 
 An interactive Java console application simulating an ATM interface. Users can perform basic banking transactions.
 
+### 3. Quiz Application with Timer
+
+An engaging Java application for quizzes with a built-in timer. Test your knowledge in a fun and time-bound environment!
+
+### 4. Number Guessing Game
+
+Challenge yourself with this JavaFX-based game. Guess the correct number within 10 attempts and earn a score based on your performance!
+
 ## How to Use
 
-Feel free to explore the code and dive into the world of Java programming with these hands-on projects!
+Explore each project individually and discover the world of Java programming. Each project comes with its own set of instructions and features to help you understand and enhance your coding skills.
+
+Happy coding!
 
